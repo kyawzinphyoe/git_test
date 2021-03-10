@@ -1,6 +1,3 @@
 # README
 
-editing readme 
-
-gfsdfd
-
+editing readme
