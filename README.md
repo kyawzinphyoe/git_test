@@ -4,5 +4,5 @@ editing readme
 
 editing by AMD
 
-Testing
+Git testing........
 
